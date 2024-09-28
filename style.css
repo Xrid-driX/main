@@ -9,3 +9,14 @@ h1 {
   color: Brown;
   text-align: center;
 }
+
+.con-1 {
+  margin: 20px 50px 30px 40px;
+  display: flex;
+  border: 1px dotted;
+}
+
+p {
+  text-align: center;
+  align-items: center;
+}
