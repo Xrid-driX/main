@@ -1,3 +1,7 @@
+body {
+  background: #008080;
+}
+
 .canva {
   display: flex;
   color: blue;
